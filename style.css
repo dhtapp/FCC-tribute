@@ -1,0 +1,17 @@
+.container {
+   padding-top: 50px;
+ }
+ 
+ .center {
+     width:400px;
+     margin:0 auto;
+     text-align:left;
+ }
+ 
+ .quote {
+   color: grey;
+ }
+ 
+ #timeline {
+   padding-bottom: 50px;
+ }
